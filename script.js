@@ -11,7 +11,7 @@
  * DONE: Use the initGame() function to restart the game
  */
 
-let numberGuess = 0;
+let numberGuess = 0;m
 
 
 
