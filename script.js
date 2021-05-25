@@ -131,7 +131,7 @@ function displayHistory() {
  */
 function getDialog(dialogType, text) {
   let dialog;
-  switch (dialogType) {
+  switch (dialogType) {y
     case "warning":
       dialog = "<div class='alert alert-warning' role='alert'>";
       break;
